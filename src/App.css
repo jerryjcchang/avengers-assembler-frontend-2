@@ -261,12 +261,12 @@ p {
 }
 
 .logo {
-  width: 120%;
+  width: 80vw;
   position: relative;
   z-index: 1;
   margin: auto;
-  top: 30vh;
-  left: 20%;
+  top: 15vw;
+  left: 10%;
 }
 
 .silhouette {
@@ -290,5 +290,6 @@ p {
 }
 
 #start-btn {
-  top: 55vh;
+  top: 27vw;
+
 }
